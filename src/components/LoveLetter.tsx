@@ -10,25 +10,25 @@ const LoveLetter = () => {
   const letterText = [
     "My Dearest Love,",
     "",
-    "Another year has passed, and with each day that goes by, my love for you grows stronger and deeper. You are the sunshine that brightens my darkest days, the gentle breeze that soothes my worried mind, and the anchor that keeps me grounded.",
     "",
-    "Your laughter is my favorite melody, your smile is my greatest treasure, and your love is my most precious gift. Thank you for being the incredible person you are – kind, beautiful, inspiring, and absolutely wonderful in every way.",
     "",
-    "Today, as we celebrate your special day, I want you to know that you are cherished beyond words, loved beyond measure, and appreciated more than you'll ever know.",
     "",
-    "Happy Birthday, my beautiful soul. Here's to another year of adventures, laughter, and endless love together.",
     "",
-    "Forever and always yours,",
-    "With all my love ❤️"
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ];
 
   const moreText = [
     "",
-    "Happy birthday to my love, my world, my babyyy and my everything......Un Mela iurkura love itzz endless and limitless I can't describe it in words.... I Love the eyes that see me like I'm the handsome man....I love the cheeks that tempt me to pull it off....I love the dimple when u smile at me....Ithulam irukura naala nee alaga iurkiyaaa illaaa unnalaa ithulam ennaku azhaga theriyutha nu therlaaa....",
     "",
-    "I'm lucky to have you as my forever ♾....let's love in infinity and live in reality (Aahaa kavithai)....Lovee youuu chellaaa kuttyyyy 🎀",
     "",
-    "Thank you for choosing to share your life with me. I promise to love you fiercely, support you completely, and cherish every moment we have together. Here's to many more birthdays together, my love."
+    "",
+    "",
+    ""
   ];
 
   useEffect(() => {
