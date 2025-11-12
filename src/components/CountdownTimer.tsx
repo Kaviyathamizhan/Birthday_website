@@ -10,8 +10,7 @@ const CountdownTimer = () => {
     seconds: 0
   });
 
-  // Next anniversary date - adjust this to your actual anniversary
-  const targetDate = new Date('2026-03-14T00:00:00'); // Example: December 17, 2024
+  const targetDate = new Date('0000-00-00T00:00:00'); 
 
   useEffect(() => {
     const timer = setInterval(() => {
