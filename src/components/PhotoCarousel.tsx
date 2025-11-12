@@ -9,51 +9,47 @@ const PhotoCarousel = () => {
   const photos = [
     {
       url: "/photo1.jpg",
-      caption: "Cutieeww babyyy ❤️"
+      caption: "1 ❤️"
     },
     {
       url: "/photo2.jpg",
-      caption: "En kanne pattudum polaaa 🤌🏻"
+      caption: "2 🤌🏻"
     },
     {
       url: "/photo3.jpg",
-      caption: "The Asthetic One (My All Time Fav) 💖"
+      caption: "3 💖"
     },
     {
       url: "/photo4.jpg",
-      caption: "Apdi Pakkathaa Chellam (I'm Dying) 💕"
+      caption: "4 💕"
     },
     {
       url: "/photo5.jpg",
-      caption: "Babyyy Doll 🥰"
+      caption: "5 🥰"
     },
     {
       url: "/photo6.jpg",
-      caption: "Our first adventure together 😍"
+      caption: "5 😍"
     },
     {
       url: "/photo7.jpg",
-      caption: "So called Surprise Meet 💝"
+      caption: "6 💝"
     },
     {
       url: "/photo8.jpg",
-      caption: "Bujukuuu Bujukuuu Bujukuuu 🫶🏻"
+      caption: "7 🫶🏻"
     },
     { 
       url: "/photo9.jpg",
-      caption: "Pookiesss 🎀"
+      caption: "8 🎀"
     },
     {
       url: "/photo10.jpg",
-      caption: "Swagyy Couple 😎 "
+      caption: "9 😎 "
     },
     {
       url: "/photo11.jpg",
-      caption: "I wont leave You babyyy ❣️ "
-    },
-    {
-      url: "/photo12.jpg",
-      caption: "Pre wedding shoot in AI 😘"
+      caption: "10 ❣️ "
     }
   ];
 
