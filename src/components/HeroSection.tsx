@@ -4,7 +4,7 @@ import heroBackground from '@/assets/hero-background.jpg';
 
 const HeroSection = () => {
   const currentDate = new Date();
-  const birthday = new Date('2025-09-17'); // September 17, 2024
+  const birthday = new Date('0000-00-00'); // September 17, 2024
   const isToday = currentDate.toDateString() === birthday.toDateString();
 
   return (
