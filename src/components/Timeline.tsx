@@ -4,30 +4,30 @@ import { Calendar, Heart, MapPin, Star } from 'lucide-react';
 const Timeline = () => {
   const milestones = [
     {
-      date: "The Confession",
-      title: "The Day Everything Changed",
-      description: "When my heart become yours and yours became mine, I knew my life would never be the same. That magical moment when two hearts recognized each other.",
+      date: "",
+      title: "",
+      description: "",
       icon: Heart,
       color: "text-love-primary"
     },
     {
-      date: "March 24 2k25",
-      title: "Cupid arrow hits", 
-      description: "Anniki un kaiya pudichituu vidave illa kolam potu vilayandom....lots of love.",
+      date: "",
+      title: "", 
+      description: "",
       icon: Calendar,
       color: "text-love-secondary"
     },
     {
-      date: "First Date",
-      title: "A Perfect Beginning",
-      description: "Soup, laughter, and endless love. The Shopping with you and the time I realized no one can replace you.",
+      date: "",
+      title: "",
+      description: "",
       icon: MapPin,
       color: "text-love-accent"
     },
     {
-      date: "Special Moment",
-      title: "We kissed (Dream la)",
-      description: "That moment when I realized you weren't just someone I loved, but someone I couldn't imagine living without.",
+      date: "",
+      title: "",
+      description: "",
       icon: Star,
       color: "text-love-primary"
     }
